@@ -24,7 +24,6 @@ type BaseCanvasProps = {
 import { Wrapper } from './Wrapper'
 
 import Canvas from '../../components/Canvas'
-import Loading from '../../components/Loading'
 import { StoreUpdater } from '../../components/StoreUpdater'
 
 const wrapperStyle: CSSProperties = {
@@ -104,7 +103,6 @@ const ForwardReactFabric = forwardRef<HTMLDivElement, ReactFabricProps>(
           >
             {children}
           </Canvas>
-          <Loading />
         </Wrapper>
       </div>
     )
