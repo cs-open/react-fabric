@@ -1,5 +1,10 @@
 # @cs-open/tsconfig
 
+## 0.0.4
+
+### Patch Changes
+
+- 整合所有项目的文件
 
 ## 0.0.3
 

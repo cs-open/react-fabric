@@ -1,6 +1,6 @@
 {
   "name": "@cs-open/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "license": "MIT",
   "exports": {

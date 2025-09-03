@@ -1,6 +1,10 @@
 # @cs-open/react-fabric
 
+## 0.0.6
 
+### Patch Changes
+
+- 整合所有项目的文件
 
 ### Patch Changes
 
