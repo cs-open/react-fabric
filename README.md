@@ -1,4 +1,5 @@
 ### 用法:
+<img width="1770" height="1478" alt="img_v3_02h1_4c0d27e2-f335-4e98-8f46-dd8c504f319g" src="https://github.com/user-attachments/assets/02ff8152-bad3-4e99-82db-13eefc5413b0" />
 
 ```jsx
 pnpm add @cs-open/react-fabric
