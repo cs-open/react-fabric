@@ -48,7 +48,7 @@
     "access": "public"
   },
   "scripts": {
-    "dev": "concurrently \"rollup --config node:@cs-open/rollup-config --watch\" \"pnpm typecheck\"",
+    "dev": "concurrently \"rollup --config node:@cs-open/rollup-config --watch\" \"pnpm tsc --watch\"",
     "build": "rimraf dist && concurrently \"rollup --config node:@cs-open/rollup-config --environment NODE_ENV:production\" \"pnpm tsc\"",
     "tsc": "tsc -p tsconfig.json --declaration true --emitDeclarationOnly --declarationDir dist/types",
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist",
