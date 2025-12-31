@@ -1,5 +1,11 @@
 # @cs-open/rollup-config
 
+## 0.0.12
+
+### Patch Changes
+
+- de5f369: Fix/bg
+
 ## 0.0.11
 
 ### Patch Changes

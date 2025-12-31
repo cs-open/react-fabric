@@ -1,5 +1,11 @@
 # @cs-open/react-fabric
 
+## 0.0.15
+
+### Patch Changes
+
+- de5f369: Fix/bg
+
 ## 0.0.14
 
 ### Patch Changes
